@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab5gui", "grafikalab5\lab5gui.csproj", "{D68F1774-3DAC-41DC-83A7-5F615F7A6128}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D68F1774-3DAC-41DC-83A7-5F615F7A6128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D68F1774-3DAC-41DC-83A7-5F615F7A6128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D68F1774-3DAC-41DC-83A7-5F615F7A6128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D68F1774-3DAC-41DC-83A7-5F615F7A6128}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCCA00D5-DAC5-4128-91E0-E2C1F89A98D0}
+	EndGlobalSection
+EndGlobal

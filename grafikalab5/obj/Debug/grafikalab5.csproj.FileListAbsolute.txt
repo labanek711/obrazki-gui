@@ -1,0 +1,10 @@
+C:\Users\pawel\source\repos\grafikalab5\grafikalab5\bin\Debug\grafikalab5.exe.config
+C:\Users\pawel\source\repos\grafikalab5\grafikalab5\bin\Debug\grafikalab5.exe
+C:\Users\pawel\source\repos\grafikalab5\grafikalab5\bin\Debug\grafikalab5.pdb
+C:\Users\pawel\source\repos\grafikalab5\grafikalab5\obj\Debug\grafikalab5.csprojAssemblyReference.cache
+C:\Users\pawel\source\repos\grafikalab5\grafikalab5\obj\Debug\grafikalab5.Form1.resources
+C:\Users\pawel\source\repos\grafikalab5\grafikalab5\obj\Debug\grafikalab5.Properties.Resources.resources
+C:\Users\pawel\source\repos\grafikalab5\grafikalab5\obj\Debug\grafikalab5.csproj.GenerateResource.cache
+C:\Users\pawel\source\repos\grafikalab5\grafikalab5\obj\Debug\grafikalab5.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\grafikalab5\grafikalab5\obj\Debug\grafikalab5.exe
+C:\Users\pawel\source\repos\grafikalab5\grafikalab5\obj\Debug\grafikalab5.pdb
