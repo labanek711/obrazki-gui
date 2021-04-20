@@ -1,4 +1,4 @@
 # obrazki-gui
 
 
-![Alt text](screen.png)
+![Alt text](screen.PNG)
